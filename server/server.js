@@ -17,7 +17,7 @@ app.use(express.json());
 
 // Demo login credentials
 const mockUser = {
-email: '[gamer@example.com](mailto:gamer@example.com)',
+email: 'gamer@example.com',
 password: '123456',
 };
 
